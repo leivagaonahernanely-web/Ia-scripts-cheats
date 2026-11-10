@@ -37,7 +37,7 @@ jobs:
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: rbxcheatgod-debug
+          name: IAscriptsVanta-debug
           path: app/build/outputs/apk/debug/*.apk
 
       - name: Create Release
