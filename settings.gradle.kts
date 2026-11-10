@@ -11,5 +11,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "RBXCheatGod"
+rootProject.name = "IAscriptsVanta"
 include(":app")
